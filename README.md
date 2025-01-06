@@ -1,4 +1,4 @@
 # Epileptic-Seizures-SLTSNN-
 
 
--- After Publishing the paper all code will be upload Here --
+-- All code will be uploaded here upon the publication of the paper --
