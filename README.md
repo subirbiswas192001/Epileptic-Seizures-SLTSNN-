@@ -25,7 +25,7 @@ This model leverages EEG signals and provides superior detection accuracy, offer
   - **Accuracy**: `0.98`  
 
 ---
-# All Folders will be uploaded here upon the publication of the paper --
+# All Folders will be uploaded here upon the publication of the paper
 ### 📂 Repository Structure  
 ```plaintext
 📦 epileptic-seizure-detection
