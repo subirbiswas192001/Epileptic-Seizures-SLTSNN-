@@ -29,8 +29,8 @@ This model leverages EEG signals and provides superior detection accuracy, offer
 ### 📂 Repository Structure  
 ```plaintext
 📦 epileptic-seizure-detection
-├── 📁 data/               # Contains EEG datasets (ensure privacy and compliance)
-├── 📁 models/             # Hybrid SLTSNN model implementation
+├── 📁 data/               # Contains EEG datasets (Dataset links and processed .CSV files)
+├── 📁 models/             # Hybrid SLTSNN model implementation (model.h5 file)
 ├── 📁 utils/              # Utility scripts (e.g., preprocessing, metrics calculation)
 ├── 📁 notebooks/          # Jupyter notebooks for experimentation and visualization
 ├── 📜 README.md           # Project overview
