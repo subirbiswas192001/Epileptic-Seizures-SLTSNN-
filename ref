@@ -1,0 +1,10 @@
+### 🔙 Citation  
+If you use this repository for your research, please cite:  
+```plaintext
+@article{SLTSNN,
+  title={Enhanced Detection of Epileptic Seizures Using SLT and SNN},
+  author={Your Name et al.},
+  journal={Your Journal Name},
+  year={2025}
+}
+```
